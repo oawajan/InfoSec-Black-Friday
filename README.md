@@ -448,6 +448,13 @@ https://training.invokere.com/pricing
 15% off Premium with no code necessary \
 Deal ends: 1st December 
 
+**Cyber5W** -Digital Forensics Trainging and Certification \
+https://cyber5w.com/ 
+https://academy.cyber5w.com/  
+50% off on courses with code: `blk24` \
+Seats are limited - lock in your spot
+Deal ends: 29th December
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
